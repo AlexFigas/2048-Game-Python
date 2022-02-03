@@ -14,11 +14,14 @@ Check the original [2048 Game](https://play2048.co/).
 
 ### Executing program
 
-* Clone the repo 
+* Clone the repo.
 ```
 git clone https://github.com/AlexFigas/2048-Game-Python.git
 ```
 * Open a terminal and change to the directory you've cloned the repo.
+```
+cd [your directory]
+```
 * Run the game and start playing!
 ```
 python .\j2048_modo_texto_48577.py
