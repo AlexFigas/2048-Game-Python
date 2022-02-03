@@ -19,7 +19,7 @@ Check the original [2048 Game](https://play2048.co/).
 git clone https://github.com/AlexFigas/2048-Game-Python.git
 ```
 * Open a terminal and change to the directory you've cloned the repo.
-* Run the engine of the game and start playing!
+* Run the game and start playing!
 ```
 python .\j2048_modo_texto_48577.py
 ```
