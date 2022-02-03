@@ -44,7 +44,7 @@ def print_jogo(jogo):
 
 
 welcome()
-le_identificacao()
+# le_identificacao()
 inicializa_semente(None)
 jogo = novo_jogo()
 regista_grelha_inicial(valor(jogo, 1, 1), valor(jogo, 1, 2), valor(jogo, 1, 3), valor(jogo, 1, 4),
