@@ -10,7 +10,7 @@ This project was carried out in my first semester, for the course unit of Discre
 
 ### Dependencies
 
-* Python 3
+* Python 3.
 
 ### Executing program
 
